@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Trivia game
 
 ###Introduction to timed functions.
